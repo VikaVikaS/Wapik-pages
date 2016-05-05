@@ -945,7 +945,10 @@ h3 {
   .sticking.header .header-holder {
     padding: 20px 10px;
     border-bottom: none; }
-
+.sticking.header.header-inverse .logo-block {
+  color: #83a7a5; }
+  .sticking.header.header-inverse .logo-block a {
+    color: #83a7a5; }
 .opener {
   display: none;
   float: right;
